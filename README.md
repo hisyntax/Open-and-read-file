@@ -1,2 +1,2 @@
 # Open-and-read-file
-Open and read file in Go
+This is how to open and read files in Go.
